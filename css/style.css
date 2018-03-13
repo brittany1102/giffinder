@@ -3,6 +3,17 @@ body {
     padding-top: 200px;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
+#container{
+    border-width:2px;
+    width:700px;
+    border-color:black;
+    border-style:solid;
+    display:flex; 
+    overflow:auto;
+    flex-wrap:wrap;
+    margin:auto;
+    background-color:white;
+}
 
 footer {
     padding-top: 100px;
