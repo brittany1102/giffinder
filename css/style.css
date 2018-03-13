@@ -1,6 +1,9 @@
 
 body {
     padding-top: 200px;
+    background: linear-gradient(#aeffdc,#89ffcc,#61e7ad);
+    background-size:100%;
+    background-attachment:fixed;
    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 #container{
